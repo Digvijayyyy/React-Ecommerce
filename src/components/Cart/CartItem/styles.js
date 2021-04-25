@@ -4,11 +4,6 @@ export default makeStyles(() => ({
   media: {
     height: 260,
   },
-  Card : {
-    margin: '10px',
-    padding : '10px',
-  },
-
   cardContent: {
     display: 'flex',
     justifyContent: 'space-between',
